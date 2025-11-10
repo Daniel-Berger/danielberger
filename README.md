@@ -31,7 +31,7 @@ Swift • SwiftUI • Combine • UIKit • Core ML • Vision • Firebase • 
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/mobiledevnyc/))
+- 💼 [LinkedIn]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/mobiledevnyc/)
 
 ---
 
