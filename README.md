@@ -16,7 +16,7 @@ I'm an iOS developer and founder of **Pomona App Studio**, where I design and bu
 ---
 
 ### 🚀 Current Projects
-- 📚 [Book Buddy]([https://apps.apple.com/](https://apps.apple.com/us/app/book-buddy-book-search/id6479997550) — Smart book recommendations  
+- 📚 [Book Buddy](https://apps.apple.com/us/app/book-buddy-book-search/id6479997550) — Smart book recommendations  
 - 🏈 [CardValue Pro](https://apps.apple.com/us/app/cardvalue-pro-card-scanner/id6745977603) — Sports card value analyzer
 - 📍 [City Search - Navi](https://apps.apple.com/us/app/city-search-navi/id6749232785) -A tour guide in your hand
 - ⚾️ [TCG Scanner: Card Price Guide](https://apps.apple.com/us/app/tcg-scanner-card-price-guide/id6751252300) - TCG card analyzer
